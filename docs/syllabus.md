@@ -83,26 +83,26 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 
 ## Course Calendar
 
-| Week #                  | Date     | Topic                                     | Deliverable Due                           |
-| -------------------     | -------  | ----------------------------------------- | ----------------------------------------- |
-| **1**                   | Jan 18   | Computer Forensics Overview               |                                           |
-| **2**                   | Jan 25   | Technical Foundations; Volume Analysis    |                                           |
-| **3**                   | Feb 1    | Investigation Artifacts                   | **Homework 1 - Technical Foundations**    |
-| **4**                   | Feb 8    | File Systems I                            | __Moot Case Assigned__                    |
-| **5**                   | Feb 15   | Timeline Correlation                      | **Homework 2 - FAT/NTFS File Systems**    |
-| **6**                   | Feb 22   | Mobile Forensics                          |                                           |
-| **7**                   | Feb 29   | File Carving                              | **Project Proposals**                     |
-| _SPRING BREAK_          | _Mar 7_  | _No class_                                |                                           |
-| **8**                   | _Mar 14_ | _Midterm Exam_                            |                                           |
-| **9**                   | Mar 21   | Memory Forensics                          |  **Moot Case**                            |
-| **10**                  | Mar 28   | File Systems II                           |  **Homework 3 - Memory Forensics**        |
-| **11**                  | Apr 4    | RAID Forensics                            |  **Homework 4 - BitLocker**               |
-| _CARNIVAL_              | Apr 11   | _No class_                                |                                           |
-| **12**                  | Apr 18   | Incident Response                         | **Homework 5 - RAID Forensics**           |
-| **13**                  | _Apr 25_ |  Project Presentations                    | **Project Presentations**                 |
-| **14**                  | _May 2_  |  Project Reports Due                      | **Project Reports**                       |
+| Week #                   | Date     | Topic                                     | Deliverable Due                           |
+| ------------------------ | -------  | ----------------------------------------- | ----------------------------------------- |
+| **1** (Jarrett, Chris)   | Jan 18   | Computer Forensic Overview                |                                           |
+| **2** (Chris)            | Jan 25   | Technical Foundations; Volume Analysis    |                                           |
+| **3** (Jarrett)          | Feb 1    | Investigation Artifacts                   | **Homework 1 - Technical Foundations**    |
+| **4** (Jarrett)          | Feb 8    | File Systems I                            | __Moot Case Assigned__                    |
+| **5** (Chris)            | Feb 15   | Timeline Correlation                      | **Homework 2 - FAT/NTFS File Systems**    |
+| **6** (Jarrett)          | Feb 22   | Mobile Forensics                          |                                           |
+| **7** (Chris)            | Feb 29   | File Carving                              | **Project Proposals**                     |
+| _SPRING BREAK_           | _Mar 7_  | _* No class_                              |                                           |
+| **8**                    | _Mar 14_ | _* Midterm Exam_                          |                                           |
+| **9** (Chris)            | Mar 21   | Memory Forensics                          |  **Moot Case**                            |
+| **10** (Jarrett)         | Mar 28   | File Systems II                           |  **Homework 3 - Memory Forensics**        |
+| **11** (Jarrett)         | Apr 4    | RAID Forensics                            |  **Homework 4 - BitLocker**               |
+| _CARNIVAL_               | Apr 11   | _* No class_                              |                                           |
+| **12** (Chris)           | Apr 18   | Incident Response                         | **Homework 5 - RAID Forensics**           |
+| **13**                   | _Apr 25_ |  _* Project Presentations_                | **Project Presentations**                 |
+| **14**                   | _May 2_  |  _* Project Reports Due_                  | **Project Reports**                       |
 
-_Italics indicate that class does not meet_
+_* indicates that class does not meet_
 
 All assignments are due before the start of the indicated lesson unless otherwise specified.  Assignments will be assessed a penalty of 10% for each day they are late.  They will not be accepted after the fourth late day and the student will receive a score of 0 on the assignment.
 
