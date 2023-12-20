@@ -41,13 +41,13 @@ Insert content about coursework here.
 
 ### Academic Misconduct 
 
-[Academic integrity](#statement-on-academic-integrity) is a core tenet of AIA. Instances of academic misconduct will be penalized with a **ZERO (0)** for the assignment and an _Academic Integrity Violation Report_ will be submitted to the [CMU Office of Community Standards & Integrity](https://cmu.edu/student-affairs/ocsi/).
+[Academic integrity](#statement-on-academic-integrity) is a core tenet of this course. Instances of academic misconduct will be penalized with a **ZERO (0)** for the assignment and an _Academic Integrity Violation Report_ will be submitted to the [CMU Office of Community Standards & Integrity](https://cmu.edu/student-affairs/ocsi/).
 
 Examples of academic misconduct include (but are not limited to):
 
 1. [Plagiarism](#plagiarism-policy) in course deliverables (project proposal, lab document, etc.)
 
-2. Directly including the output of generative AI tools (ChatGPT, etc.) in submitted work
+2. Directly including the output of generative AI tools (ChatGPT, etc.) in submitted work without explicit instructor permission/approval 
 
 3. [Cheating](#cheating-policy) on team or individual assignments, including sharing answers and/or solution methods
 
