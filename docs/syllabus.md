@@ -90,12 +90,12 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 | **3** (Jarrett)          | Feb 1    | Investigation Artifacts                   | **Homework 1 - Technical Foundations**    |
 | **4** (Jarrett)          | Feb 8    | File Systems I                            | __Moot Case Assigned__                    |
 | **5** (Chris)            | Feb 15   | Timeline Correlation                      | **Homework 2 - FAT/NTFS File Systems**    |
-| **6** (Jarrett)          | Feb 22   | Mobile Forensics                          |                                           |
-| **7** (Chris)            | Feb 29   | File Carving                              | **Project Proposals**                     |
+| **6** (Chris)          | Feb 22   | Mobile Forensics                          |                                           |
+| **7** (Jarrett)            | Feb 29   | File Carving                              | **Project Proposals**                     |
 | _SPRING BREAK_           | _Mar 7_  | _* No class_                              |                                           |
 | **8**                    | _Mar 14_ | _* Midterm Exam_                          |                                           |
-| **9** (Chris)            | Mar 21   | Memory Forensics                          |  **Moot Case**                            |
-| **10** (Jarrett)         | Mar 28   | File Systems II                           |  **Homework 3 - Memory Forensics**        |
+| **9** (Jarrett)            | Mar 21   | Memory Forensics                          |  **Moot Case**                            |
+| **10** (Chris)         | Mar 28   | File Systems II                           |  **Homework 3 - Memory Forensics**        |
 | **11** (Jarrett)         | Apr 4    | RAID Forensics                            |  **Homework 4 - BitLocker**               |
 | _CARNIVAL_               | Apr 11   | _* No class_                              |                                           |
 | **12** (Chris)           | Apr 18   | Incident Response                         | **Homework 5 - RAID Forensics**           |
