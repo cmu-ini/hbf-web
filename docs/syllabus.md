@@ -35,7 +35,13 @@ Host Based Forensics provides a systematic introduction to the field of digital 
 
 ## Coursework
 
-Insert content about coursework here. 
+This course includes hands-on assignments that simulate real-world forensics investigations. You will undertake small-scale assignments, in the form of "homework" to hone your skills using forensics tools that are demonstrated in class. 
+
+You will also be the lead forensic investigator for a simulated criminal case. 
+
+This course also includes a semester-long project that comprises most of the grading points available. 
+
+Specific assignment details/descriptions are available on Canvas. 
 
 ## Evaluation & Grading
 

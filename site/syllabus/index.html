@@ -20,7 +20,7 @@
       
       
       <link rel="icon" href="../assets/favicon.png">
-      <meta name="generator" content="mkdocs-1.5.2, mkdocs-material-9.2.5">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.25">
     
     
       
@@ -28,10 +28,10 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.0e669242.min.css">
+      <link rel="stylesheet" href="../assets/stylesheets/main.6543a935.min.css">
       
         
-        <link rel="stylesheet" href="../assets/stylesheets/palette.85d0ee34.min.css">
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
       
       
 
@@ -98,9 +98,6 @@
     <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="red">
   
     
-    
-      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
-    
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" for="__drawer"></label>
@@ -156,9 +153,9 @@
     
     
     
-    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="red"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="red"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
     
-      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
       </label>
     
@@ -166,15 +163,18 @@
     
     
     
-    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="light-blue" data-md-color-accent="red"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="light-blue" data-md-color-accent="red"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
     
-      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
       </label>
     
   
 </form>
       
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
     
     
     
@@ -257,6 +257,7 @@
   
   
   
+  
     <li class="md-nav__item">
       <a href=".." class="md-nav__link">
         
@@ -273,6 +274,7 @@
     
       
       
+  
   
   
   
@@ -295,6 +297,7 @@
   
   
     
+  
   
   
     <li class="md-nav__item md-nav__item--active">
@@ -343,35 +346,45 @@
       
         <li class="md-nav__item">
   <a href="#course-details" class="md-nav__link">
-    Course Details
+    <span class="md-ellipsis">
+      Course Details
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#course-overview" class="md-nav__link">
-    Course Overview
+    <span class="md-ellipsis">
+      Course Overview
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#course-objectives" class="md-nav__link">
-    Course Objectives
+    <span class="md-ellipsis">
+      Course Objectives
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#coursework" class="md-nav__link">
-    Coursework
+    <span class="md-ellipsis">
+      Coursework
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#evaluation-grading" class="md-nav__link">
-    Evaluation &amp; Grading
+    <span class="md-ellipsis">
+      Evaluation &amp; Grading
+    </span>
   </a>
   
     <nav class="md-nav" aria-label="Evaluation & Grading">
@@ -379,28 +392,36 @@
         
           <li class="md-nav__item">
   <a href="#academic-misconduct" class="md-nav__link">
-    Academic Misconduct
+    <span class="md-ellipsis">
+      Academic Misconduct
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#late-submissions" class="md-nav__link">
-    Late Submissions
+    <span class="md-ellipsis">
+      Late Submissions
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#course-grading-summary" class="md-nav__link">
-    Course Grading Summary
+    <span class="md-ellipsis">
+      Course Grading Summary
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#letter-grade-cutoffs" class="md-nav__link">
-    Letter Grade Cutoffs
+    <span class="md-ellipsis">
+      Letter Grade Cutoffs
+    </span>
   </a>
   
 </li>
@@ -412,14 +433,18 @@
       
         <li class="md-nav__item">
   <a href="#course-calendar" class="md-nav__link">
-    Course Calendar
+    <span class="md-ellipsis">
+      Course Calendar
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#course-policies" class="md-nav__link">
-    Course Policies
+    <span class="md-ellipsis">
+      Course Policies
+    </span>
   </a>
   
     <nav class="md-nav" aria-label="Course Policies">
@@ -427,56 +452,72 @@
         
           <li class="md-nav__item">
   <a href="#take-care-of-yourself" class="md-nav__link">
-    Take Care of Yourself
+    <span class="md-ellipsis">
+      Take Care of Yourself
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#statement-on-academic-integrity" class="md-nav__link">
-    Statement on Academic Integrity
+    <span class="md-ellipsis">
+      Statement on Academic Integrity
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#carnegie-mellon-code" class="md-nav__link">
-    Carnegie Mellon Code
+    <span class="md-ellipsis">
+      Carnegie Mellon Code
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#cheating-policy" class="md-nav__link">
-    Cheating Policy
+    <span class="md-ellipsis">
+      Cheating Policy
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#plagiarism-policy" class="md-nav__link">
-    Plagiarism Policy
+    <span class="md-ellipsis">
+      Plagiarism Policy
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#unauthorized-assistance-policy" class="md-nav__link">
-    Unauthorized Assistance Policy
+    <span class="md-ellipsis">
+      Unauthorized Assistance Policy
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#research-misconduct-policy" class="md-nav__link">
-    Research Misconduct Policy
+    <span class="md-ellipsis">
+      Research Misconduct Policy
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#generative-ai-policy" class="md-nav__link">
-    Generative AI Policy
+    <span class="md-ellipsis">
+      Generative AI Policy
+    </span>
   </a>
   
 </li>
@@ -522,35 +563,45 @@
       
         <li class="md-nav__item">
   <a href="#course-details" class="md-nav__link">
-    Course Details
+    <span class="md-ellipsis">
+      Course Details
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#course-overview" class="md-nav__link">
-    Course Overview
+    <span class="md-ellipsis">
+      Course Overview
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#course-objectives" class="md-nav__link">
-    Course Objectives
+    <span class="md-ellipsis">
+      Course Objectives
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#coursework" class="md-nav__link">
-    Coursework
+    <span class="md-ellipsis">
+      Coursework
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#evaluation-grading" class="md-nav__link">
-    Evaluation &amp; Grading
+    <span class="md-ellipsis">
+      Evaluation &amp; Grading
+    </span>
   </a>
   
     <nav class="md-nav" aria-label="Evaluation & Grading">
@@ -558,28 +609,36 @@
         
           <li class="md-nav__item">
   <a href="#academic-misconduct" class="md-nav__link">
-    Academic Misconduct
+    <span class="md-ellipsis">
+      Academic Misconduct
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#late-submissions" class="md-nav__link">
-    Late Submissions
+    <span class="md-ellipsis">
+      Late Submissions
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#course-grading-summary" class="md-nav__link">
-    Course Grading Summary
+    <span class="md-ellipsis">
+      Course Grading Summary
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#letter-grade-cutoffs" class="md-nav__link">
-    Letter Grade Cutoffs
+    <span class="md-ellipsis">
+      Letter Grade Cutoffs
+    </span>
   </a>
   
 </li>
@@ -591,14 +650,18 @@
       
         <li class="md-nav__item">
   <a href="#course-calendar" class="md-nav__link">
-    Course Calendar
+    <span class="md-ellipsis">
+      Course Calendar
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#course-policies" class="md-nav__link">
-    Course Policies
+    <span class="md-ellipsis">
+      Course Policies
+    </span>
   </a>
   
     <nav class="md-nav" aria-label="Course Policies">
@@ -606,56 +669,72 @@
         
           <li class="md-nav__item">
   <a href="#take-care-of-yourself" class="md-nav__link">
-    Take Care of Yourself
+    <span class="md-ellipsis">
+      Take Care of Yourself
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#statement-on-academic-integrity" class="md-nav__link">
-    Statement on Academic Integrity
+    <span class="md-ellipsis">
+      Statement on Academic Integrity
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#carnegie-mellon-code" class="md-nav__link">
-    Carnegie Mellon Code
+    <span class="md-ellipsis">
+      Carnegie Mellon Code
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#cheating-policy" class="md-nav__link">
-    Cheating Policy
+    <span class="md-ellipsis">
+      Cheating Policy
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#plagiarism-policy" class="md-nav__link">
-    Plagiarism Policy
+    <span class="md-ellipsis">
+      Plagiarism Policy
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#unauthorized-assistance-policy" class="md-nav__link">
-    Unauthorized Assistance Policy
+    <span class="md-ellipsis">
+      Unauthorized Assistance Policy
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#research-misconduct-policy" class="md-nav__link">
-    Research Misconduct Policy
+    <span class="md-ellipsis">
+      Research Misconduct Policy
+    </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
   <a href="#generative-ai-policy" class="md-nav__link">
-    Generative AI Policy
+    <span class="md-ellipsis">
+      Generative AI Policy
+    </span>
   </a>
   
 </li>
@@ -741,7 +820,10 @@
 <li>Construct a technical prototype or detailed policy recommendation that addresses an advanced research question related to the field of digital forensics.</li>
 </ul>
 <h2 id="coursework">Coursework<a class="headerlink" href="#coursework" title="Permanent link">&para;</a></h2>
-<p>Insert content about coursework here. </p>
+<p>This course includes hands-on assignments that simulate real-world forensics investigations. You will undertake small-scale assignments, in the form of "homework" to hone your skills using forensics tools that are demonstrated in class. </p>
+<p>You will also be the lead forensic investigator for a simulated criminal case. </p>
+<p>This course also includes a semester-long project that comprises most of the grading points available. </p>
+<p>Specific assignment details/descriptions are available on Canvas. </p>
 <h2 id="evaluation-grading">Evaluation &amp; Grading<a class="headerlink" href="#evaluation-grading" title="Permanent link">&para;</a></h2>
 <h3 id="academic-misconduct">Academic Misconduct<a class="headerlink" href="#academic-misconduct" title="Permanent link">&para;</a></h3>
 <p><a href="#statement-on-academic-integrity">Academic integrity</a> is a core tenet of this course. Instances of academic misconduct will be penalized with a <strong>ZERO (0)</strong> for the assignment and an <em>Academic Integrity Violation Report</em> will be submitted to the <a href="https://cmu.edu/student-affairs/ocsi/">CMU Office of Community Standards &amp; Integrity</a>.</p>
@@ -1070,11 +1152,22 @@ If the situation is life threatening, call the Police:
 
 
 
+
+
+  
+  
+
+
+
+
+
+
                 
               </article>
             </div>
           
           
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
         </div>
         
       </main>
@@ -1106,10 +1199,11 @@ If the situation is life threatening, call the Police:
       <div class="md-dialog__inner md-typeset"></div>
     </div>
     
-    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.tracking"], "search": "../assets/javascripts/workers/search.dfff1995.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.tracking"], "search": "../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../assets/javascripts/bundle.78eede0e.min.js"></script>
+      <script src="../assets/javascripts/bundle.081f42fc.min.js"></script>
       
     
   </body>
