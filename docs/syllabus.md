@@ -1,8 +1,9 @@
 ![](./assets/cmu-ini-wordmark.png){ width="400px" }
 {: style="margin-top:0.5em;margin-bottom:2em"}
+
 # Syllabus
 
-**14-822: Host Based Forensics**  
+**14-822: Host Based Forensics**
 _Spring 2024_
 
 ## Course Details
@@ -16,7 +17,7 @@ _Spring 2024_
 | **Prerequisites**        | AIA (14-761)                                         |
 | **Class Schedule**       | Thursdays @ 4:00pm–6:50pm ET                         |
 | **Class Location**       | INI DEC (Pittsburgh), B23 211 (Silicon Valley)       |
-| **Textbook Information** | - Carrier, Brian. File system forensic analysis. Addison-Wesley Professional, 2005.<br/> - Polstra, Philip. Windows Forensics. CreateSpace Independent Publishing, 2016. <br/> - Polstra, Philip. Linux Forensics. CreateSpace Independent Publishing 2015. <br/> - Hale-Ligh, Michael Et al. The Art of Memory Forensics. Wiley, 2014. <br/> - Mahalik, Heather Et al. Practical Mobile Forensics – Second Edition. Packt Publishing, 2016. <br/> - Daniel & Daniel. Digital Forensics for Legal Professionals. Syngress Publishing, 2012. <br/> **Note regarding the texts**: Aside from the two Polstra Books, all texts listed above are available free of charge in electronic format via the CMU Library’s website. |
+| **Textbook Information (Optional)** | - Carrier, Brian. File system forensic analysis. Addison-Wesley Professional, 2005.<br/> - Polstra, Philip. Windows Forensics. CreateSpace Independent Publishing, 2016. <br/> - Polstra, Philip. Linux Forensics. CreateSpace Independent Publishing 2015. <br/> - Hale-Ligh, Michael Et al. The Art of Memory Forensics. Wiley, 2014. <br/> - Mahalik, Heather Et al. Practical Mobile Forensics – Second Edition. Packt Publishing, 2016. <br/> - Daniel & Daniel. Digital Forensics for Legal Professionals. Syngress Publishing, 2012. <br/> **Note regarding the texts**: Aside from the two Polstra Books, all texts listed above are available free of charge in electronic format via the CMU Library’s website. |
 
 ## Course Overview
 
@@ -35,17 +36,17 @@ Host Based Forensics provides a systematic introduction to the field of digital 
 
 ## Coursework
 
-This course includes hands-on assignments that simulate real-world forensics investigations. You will undertake small-scale assignments, in the form of "homework" to hone your skills using forensics tools that are demonstrated in class. 
+This course includes hands-on assignments that simulate real-world forensics investigations. You will undertake small-scale assignments, in the form of "homework" to hone your skills using forensics tools that are demonstrated in class.
 
-You will also be the lead forensic investigator for a simulated criminal case. 
+You will also be the lead forensic investigator for a simulated criminal case.
 
-This course also includes a semester-long project that comprises most of the grading points available. 
+This course also includes a semester-long project that comprises most of the grading points available.
 
-Specific assignment details/descriptions are available on Canvas. 
+Specific assignment details/descriptions are available on Canvas.
 
 ## Evaluation & Grading
 
-### Academic Misconduct 
+### Academic Misconduct
 
 [Academic integrity](#statement-on-academic-integrity) is a core tenet of this course. Instances of academic misconduct will be penalized with a **ZERO (0)** for the assignment and an _Academic Integrity Violation Report_ will be submitted to the [CMU Office of Community Standards & Integrity](https://cmu.edu/student-affairs/ocsi/).
 
@@ -53,7 +54,7 @@ Examples of academic misconduct include (but are not limited to):
 
 1. [Plagiarism](#plagiarism-policy) in course deliverables (project proposal, lab document, etc.)
 
-2. Directly including the output of generative AI tools (ChatGPT, etc.) in submitted work without explicit instructor permission/approval 
+2. Directly including the output of generative AI tools (ChatGPT, etc.) in submitted work without explicit instructor permission/approval
 
 3. [Cheating](#cheating-policy) on team or individual assignments, including sharing answers and/or solution methods
 
@@ -91,39 +92,39 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 
 | Week #                   | Date     | Topic                                     | Deliverable Due                           |
 | ------------------------ | -------  | ----------------------------------------- | ----------------------------------------- |
-| **1** (Jarrett, Chris)   | Jan 18   | Computer Forensic Overview                |                                           |
-| **2** (Chris)            | Jan 25   | Technical Foundations; Volume Analysis    |                                           |
-| **3** (Jarrett)          | Feb 1    | Investigation Artifacts                   | **Homework 1 - Technical Foundations**    |
-| **4** (Jarrett)          | Feb 8    | File Systems I                            | __Moot Case Assigned__                    |
-| **5** (Chris)            | Feb 15   | Timeline Correlation                      | **Homework 2 - FAT/NTFS File Systems**    |
-| **6** (Chris)          | Feb 22   | Mobile Forensics                          |                                           |
-| **7** (Jarrett)            | Feb 29   | File Carving                              | **Project Proposals**                     |
-| _SPRING BREAK_           | _Mar 7_  | _* No class_                              |                                           |
-| **8**                    | _Mar 14_ | _* Midterm Exam_                          |                                           |
-| **9** (Jarrett)            | Mar 21   | Memory Forensics                          |  **Moot Case**                            |
-| **10** (Chris)         | Mar 28   | File Systems II                           |  **Homework 3 - Memory Forensics**        |
-| **11** (Jarrett)         | Apr 4    | RAID Forensics                            |  **Homework 4 - BitLocker**               |
-| _CARNIVAL_               | Apr 11   | _* No class_                              |                                           |
-| **12** (Chris)           | Apr 18   | Incident Response                         | **Homework 5 - RAID Forensics**           |
-| **13**                   | _Apr 25_ |  _* Project Presentations_                | **Project Presentations**                 |
-| **14**                   | _May 2_  |  _* Project Reports Due_                  | **Project Reports**                       |
+| **1** (Jarrett)   | Jan 16   | Computer Forensic Overview                |                                           |
+| **2** (Jarrett)            | Jan 23   | Technical Foundations; Volume Analysis    |                                           |
+| **3** (Chris)          | Jan 30    | Investigation Artifacts                   | **Homework 1 - Technical Foundations**    |
+| **4** (Jarrett)          | Feb 6    | File Systems I                            | **Moot Case Assigned**                    |
+| **5** (Chris)            | Feb 13   | Timeline Correlation                      | **Homework 2 - FAT/NTFS File Systems**    |
+| **6** (Chris)          | Feb 20   | Mobile Forensics                          |   **Project Proposals**            |
+| **7** (Jarrett)            | Feb 27   | File Carving                              |                      |
+| _SPRING BREAK_           | _Mar 6_  | _* No class_                              |                                           |
+| **8**                    | _Mar 13_ | _* Midterm Exam_                          |                                           |
+| **9** (Jarrett)            | Mar 20   | Memory Forensics                          |  **Moot Case**                            |
+| **10** (Chris)         | Mar 27   | File Systems II                           |  **Homework 3 - Memory Forensics**        |
+| _CARNIVAL_               | Apr 3   | _* No class_                              |                                           |
+| **11** (Jarrett)         | Apr 10    | RAID Forensics                            |  **Homework 4 - BitLocker**               |
+| **12** (Chris)           | Apr 17   | Incident Response                         | **Homework 5 - RAID Forensics**           |
+| **13**                   | _Apr 24_ |  _* Project Presentations_                | **Project Presentations**                 |
+| **14**                   | _May 1_  |  _* Project Reports Due_                  | **Project Reports**                       |
 
 _* indicates that class does not meet_
 
 All assignments are due before the start of the indicated lesson unless otherwise specified.  Assignments will be assessed a penalty of 10% for each day they are late.  They will not be accepted after the fourth late day and the student will receive a score of 0 on the assignment.
 
-See the [University Academic Calendar for 2023-2024](https://www.cmu.edu/hub/calendar/docs/2324-academic-calendar.pdf) if you need more information about the University schedule. 
+See the [University Academic Calendar for 2023-2024](https://www.cmu.edu/hub/calendar/docs/2324-academic-calendar.pdf) if you need more information about the University schedule.
 
 ## Course Policies
 
 ### Take Care of Yourself
 
 Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress.
- 
+
 All of us benefit from support during times of struggle. You are not alone. There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is often helpful.
- 
-If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. Counseling and Psychological Services (CaPS) is here to help: call [412-268-2922](tel:412-268-2922) and visit their website at http://www.cmu.edu/counseling/.  Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help.
- 
+
+If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. Counseling and Psychological Services (CaPS) is here to help: call [412-268-2922](tel:412-268-2922) and visit their website at <http://www.cmu.edu/counseling/>.  Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help.
+
 If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately, day or night:
 CaPS: [412-268-2922](tel:412-268-2922)
 Re:solve Crisis Network: [888-796-8226](tel:888-796-8226)
@@ -132,7 +133,6 @@ If the situation is life threatening, call the Police:
            Off campus: 911
 
 If you have questions about this or your coursework, please let your instructor know.
-
 
 ### Statement on Academic Integrity
 
@@ -144,7 +144,7 @@ These statements provide groundwork for academic integrity that includes everyon
 
 All members of the university community have the obligation to serve as models of personal and professional integrity, as well as models for creating, expressing and transferring knowledge. This implies that the faculty not only provide the knowledge and training that prepare students to find their productive roles in society, but also help them discover and maintain integrity in the practice of that role. Staff and administrators are charged with representing the university accurately and forthrightly. Students are responsible for conducting their learning in a similarly honest and committed fashion-by avoiding plagiarism, cheating or taking credit for work not their own-and thus contributing to a campus atmosphere which expects and supports academic integrity.
 
-***This policy applies, in all respects, to this course.***
+_**This policy applies, in all respects, to this course.**_
 
 ### Carnegie Mellon Code
 
@@ -160,7 +160,7 @@ The discovery, advancement and communication of knowledge are not possible witho
 
 The commitment of its faculty, staff and students to these standards contributes to the high respect in which the Carnegie Mellon degree is held. Students must not destroy that respect by their failure to meet these standards. Students who cannot meet them should voluntarily withdraw from the university.
 
-***This policy applies, in all respects, to this course.***
+_**This policy applies, in all respects, to this course.**_
 
 ### Cheating Policy
 
@@ -178,7 +178,7 @@ According to the [_University Policy on Academic Integrity_](https://www.cmu.edu
 
 6. Falsification of academic credentials."
 
-***This policy applies, in all respects, to this course.***
+_**This policy applies, in all respects, to this course.**_
 
 ### Plagiarism Policy
 
@@ -196,7 +196,7 @@ According to the [_University Policy on Academic Integrity_](https://www.cmu.edu
 
 6. Concepts or material derived from the work, published or unpublished, of another person."
 
-***This policy applies, in all respects, to this course.***
+_**This policy applies, in all respects, to this course.**_
 
 ### Unauthorized Assistance Policy
 
@@ -214,7 +214,7 @@ According to the [_University Policy on Academic Integrity_](https://www.cmu.edu
 
 6. Submission for credit of previously completed graded work in a second course without first obtaining permission from the instructor(s) of the second course. In the case of concurrent courses, permission to submit the same work for credit in two courses must be obtained from the instructors of both courses."
 
-***This policy applies, in all respects, to this course.***
+_**This policy applies, in all respects, to this course.**_
 
 ### Research Misconduct Policy
 
@@ -230,7 +230,7 @@ The policy goes on to note that "misconduct" means:
 
 To become familiar with the expectations around the responsible conduct of research, please review the guidelines for Research Ethics published by the Office of Research Integrity and Compliance.
 
-***This policy applies, in all respects, to this course.***
+_**This policy applies, in all respects, to this course.**_
 
 ### Generative AI Policy
 
