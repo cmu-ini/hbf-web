@@ -3,8 +3,8 @@
 
 # Syllabus
 
-**14-822: Host Based Forensics**
-_Spring 2024_
+**14-822: Host Based Forensics**  
+_Spring 2025_
 
 ## Course Details
 

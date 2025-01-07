@@ -7,10 +7,10 @@ extra_css:
   - stylesheets/extra.css
 theme:
   name: material
-#
-#  Disable instant navigation due to Safari anchor link issues
-#  https://github.com/squidfunk/mkdocs-material/issues/5239#issuecomment-1482661635
-#
+  #
+  #  Disable instant navigation due to Safari anchor link issues
+  #  https://github.com/squidfunk/mkdocs-material/issues/5239#issuecomment-1482661635
+  #
   features:
     - navigation.instant
     - navigation.tracking
@@ -47,3 +47,5 @@ markdown_extensions:
 plugins:
   - search
   - social
+  - git-revision-date-localized:
+      type: date
