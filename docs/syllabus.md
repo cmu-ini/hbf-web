@@ -105,7 +105,7 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 | **10** (Chris)           | Mar 27   | File Systems II                           |  **Homework 3 - Memory Forensics**        |
 | _CARNIVAL_               | Apr 3    | _* No class_                              |                                           |
 | **11** (Jarrett)         | Apr 10   | RAID Forensics                            |  **Homework 4 - BitLocker**               |
-| **12** (Chris)           | Apr 17   | Incident Response                         | **Homework 5 - RAID Forensics**           |
+| **12** (Chris)           | Apr 17   | Incident Response & **Guest Speaker**     | **Homework 5 - RAID Forensics**           |
 | **13**                   | _Apr 24_ |  _* Project Presentations_                | **Project Presentations**                 |
 | **14**                   | _May 1_  |  _* Project Reports Due_                  | **Project Reports**                       |
 
