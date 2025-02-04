@@ -3,7 +3,7 @@
 
 # Syllabus
 
-**14-822: Host Based Forensics**  
+**14-822: Host Based Forensics**
 _Spring 2025_
 
 ## Course Details
@@ -101,7 +101,7 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 | **7** (Jarrett)          | Feb 27   | File Carving                              |                                           |
 | _SPRING BREAK_           | _Mar 6_  | _* No class_                              |                                           |
 | **8**                    | _Mar 13_ | _* Midterm Exam_                          |                                           |
-| **9** (Jarrett)          | Mar 20   | Memory Forensics                          |  **Moot Case**                            |
+| **9** (Chris  )          | Mar 20   | Memory Forensics                          |  **Moot Case**                            |
 | **10** (Chris)           | Mar 27   | File Systems II                           |  **Homework 3 - Memory Forensics**        |
 | _CARNIVAL_               | Apr 3    | _* No class_                              |                                           |
 | **11** (Jarrett)         | Apr 10   | RAID Forensics                            |  **Homework 4 - BitLocker**               |
