@@ -102,9 +102,9 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 | _SPRING BREAK_           | _Mar 6_  | _* No class_                              |                                           |
 | **8**                    | _Mar 13_ | _* Midterm Exam_                          |                                           |
 | **9** (Chris)            | Mar 20   | Memory Forensics                          |  **Moot Case**                            |
-| **10** (Chris)           | Mar 27   | File Systems II                           |  **Homework 3 - Memory Forensics**        |
+| **10** (Jarrett)           | Mar 27   | File Systems II                           |  **Homework 3 - Memory Forensics**        |
 | _CARNIVAL_               | Apr 3    | _* No class_                              |                                           |
-| **11** (Jarrett)         | Apr 10   | RAID Forensics                            |  **Homework 4 - BitLocker**               |
+| **11** (Chris)         | Apr 10   | RAID Forensics                            |  **Homework 4 - BitLocker**               |
 | **12** (Chris)           | Apr 17   | Incident Response & **Guest Speaker**     | **Homework 5 - RAID Forensics**           |
 | **13**                   | _Apr 24_ |  _* Project Presentations_                | **Project Presentations**                 |
 | **14**                   | _May 1_  |  _* Project Reports Due_                  | **Project Reports**                       |
