@@ -2,15 +2,11 @@ site_name: "INI 14-822: Host Based Forensics"
 site_url: https://www.andrew.cmu.edu/course/14-822/
 site_author: Jarrett Booz, Chris Rodman
 site_description: This course provides a systematic introduction to the field of digital forensics.
-copyright: "&copy; 2023 Carnegie Mellon University"
+copyright: "&copy; 2026 Carnegie Mellon University"
 extra_css:
   - stylesheets/extra.css
 theme:
   name: material
-  #
-  #  Disable instant navigation due to Safari anchor link issues
-  #  https://github.com/squidfunk/mkdocs-material/issues/5239#issuecomment-1482661635
-  #
   features:
     - navigation.instant
     - navigation.tracking

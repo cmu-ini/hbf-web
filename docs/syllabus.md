@@ -4,7 +4,7 @@
 # Syllabus
 
 **14-822: Host Based Forensics**
-_Spring 2025_
+_Spring 2026_
 
 ## Course Details
 
@@ -60,15 +60,17 @@ Examples of academic misconduct include (but are not limited to):
 
 ### Late Submissions
 
-Students who miss assignment deadlines will have **24 hours** to submit late work. Late submissions will incur a **10%** deduction. _No points are awarded after the 24-hour grace period._
+**Canvas is the source of truth for all assignment due dates.** Late submissions will incur a **10%** deduction per day, up to 4 days late. After 4 days late, assignments will not be accepted for credit.
+
+Canvas considers an assignment late as soon as the deadline passes. Canvas automatically calculates the deduction by rounding **up** to the next 1 day late (e.g., an assignment 1 hour late will incur the 1-day penalty of 10% and an assignment 25 hours late will incur the 2-day penalty of 20%).
 
 ### Course Grading Summary
 
 | Assignment                       |   Points                |
 | ---------------------------------| -------:                |
 | Homework (x5)                    | 100 (20 per assignment) |
-| Midterm Exam                     | 200                     |
-| Investigation - Casework         | 100                     |
+| Midterm Exam                     | 100                     |
+| Investigation - Casework         | 200                     |
 | Final Project and Presentation   | 600                     |
 | **TOTAL**                        | **1000**                |
 
@@ -92,28 +94,26 @@ Students who miss assignment deadlines will have **24 hours** to submit late wor
 
 | Week #                   | Date     | Topic                                     | Deliverable Due                           |
 | ------------------------ | -------  | ----------------------------------------- | ----------------------------------------- |
-| **1** (Jarrett)          | Jan 16   | Computer Forensic Overview                |                                           |
-| **2** (Jarrett)          | Jan 23   | Technical Foundations; Volume Analysis    |                                           |
-| **3** (Chris)            | Jan 30   | Investigation Artifacts                   | **Homework 1 - Technical Foundations**    |
-| **4** (Jarrett)          | Feb 6    | File Systems I                            | **Moot Case Assigned**                    |
-| **5** (Chris)            | Feb 13   | Timeline Correlation                      | **Homework 2 - FAT/NTFS File Systems**    |
-| **6** (Chris)            | Feb 20   | Mobile Forensics                          |   **Project Proposals**                   |
-| **7** (Jarrett)          | Feb 27   | File Carving                              |                                           |
-| _SPRING BREAK_           | _Mar 6_  | _* No class_                              |                                           |
-| **8**                    | _Mar 13_ | _* Midterm Exam_                          |                                           |
-| **9** (Chris)            | Mar 20   | Memory Forensics                          |  **Moot Case**                            |
-| **10** (Jarrett)           | Mar 27   | File Systems II                           |  **Homework 3 - Memory Forensics**        |
-| _CARNIVAL_               | Apr 3    | _* No class_                              |                                           |
-| **11** (Chris)         | Apr 10   | RAID Forensics                            |  **Homework 4 - BitLocker**               |
-| **12** (Chris)           | Apr 17   | Incident Response & **Guest Speaker**     | **Homework 5 - RAID Forensics**           |
-| **13**                   | _Apr 24_ |  _* Project Presentations_                | **Project Presentations**                 |
-| **14**                   | _May 1_  |  _* Project Reports Due_                  | **Project Reports**                       |
+| **1** (Jarrett)          | Jan 15   | Computer Forensic Overview                |                                           |
+| **2** (Jarrett)          | Jan 22   | Technical Foundations; Volume Analysis    |                                           |
+| **3** (Chris)            | Jan 29   | Investigation Artifacts                   | **Homework 1 - Technical Foundations**    |
+| **4** (Jarrett)          | Feb 5    | File Systems I                            | **Moot Case Assigned**                    |
+| **5** (Chris)            | Feb 12   | Timeline Correlation                      | **Homework 2 - FAT/NTFS File Systems**    |
+| **6** (Chris)            | Feb 19   | Mobile Forensics & **Guest Speaker**      |   **Project Proposals**                   |
+| **7** (Jarrett)          | Feb 26   | File Carving                              |                                           |
+| _SPRING BREAK_           | _Mar 5_  | _* No class_                              |                                           |
+| **8**                    | _Mar 12_ | _* Midterm Exam_                          |                                           |
+| **9** (Chris)            | Mar 19   | Memory Forensics                          |  **Moot Case**                            |
+| **10** (Jarrett)         | Mar 26   | File Systems II                           |  **Homework 3 - Memory Forensics**        |
+| **11** (Chris)           | Apr 2    | RAID Forensics                            |  **Homework 4 - BitLocker**               |
+| _CARNIVAL_               | Apr 9    | _* No class_                              |                                           |
+| **12** (Chris)           | Apr 16   | Incident Response & **Project Presentations** |  **Homework 5 - RAID Forensics** <br>**Project Presentations**<br> **ATTENDANCE REQUIRED**    |
+| **13**                   | _Apr 23_ | **Project Presentations**                 | **ATTENDANCE REQUIRED**                   |
+| **14**                   | _Apr 30_ |  _* Project Reports Due_                  | **Project Reports**                       |
 
 _* indicates that class does not meet_
 
-All assignments are due before the start of the indicated lesson unless otherwise specified.  Assignments will be assessed a penalty of 10% for each day they are late.  They will not be accepted after the fourth late day and the student will receive a score of 0 on the assignment.
-
-See the [University Academic Calendar for 2023-2024](https://www.cmu.edu/hub/calendar/docs/2324-academic-calendar.pdf) if you need more information about the University schedule.
+See the [University Academic Calendar for 2025-2026](https://www.cmu.edu/hub/calendar/docs/2526-academic-calendar.pdf) if you need more information about the University schedule.
 
 ## Course Policies
 
