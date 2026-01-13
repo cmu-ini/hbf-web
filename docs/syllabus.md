@@ -95,10 +95,10 @@ Canvas considers an assignment late as soon as the deadline passes. Canvas autom
 | Week #                   | Date     | Topic                                     | Deliverable Due                           |
 | ------------------------ | -------  | ----------------------------------------- | ----------------------------------------- |
 | **1** (Jarrett)          | Jan 15   | Computer Forensic Overview                |                                           |
-| **2** (Jarrett)          | Jan 22   | Technical Foundations; Volume Analysis    |                                           |
+| **2** (Chris)          | Jan 22   | Technical Foundations; Volume Analysis    |                                           |
 | **3** (Chris)            | Jan 29   | Investigation Artifacts                   | **Homework 1 - Technical Foundations**    |
 | **4** (Jarrett)          | Feb 5    | File Systems I                            | **Moot Case Assigned**                    |
-| **5** (Chris)            | Feb 12   | Timeline Correlation                      | **Homework 2 - FAT/NTFS File Systems**    |
+| **5** (Jarrett)            | Feb 12   | Timeline Correlation                      | **Homework 2 - FAT/NTFS File Systems**    |
 | **6** (Chris)            | Feb 19   | Mobile Forensics & **Guest Speaker**      |   **Project Proposals**                   |
 | **7** (Jarrett)          | Feb 26   | File Carving                              |                                           |
 | _SPRING BREAK_           | _Mar 5_  | _* No class_                              |                                           |
