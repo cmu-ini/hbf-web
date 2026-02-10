@@ -95,16 +95,16 @@ Canvas considers an assignment late as soon as the deadline passes. Canvas autom
 | Week #                   | Date     | Topic                                     | Deliverable Due                           |
 | ------------------------ | -------  | ----------------------------------------- | ----------------------------------------- |
 | **1** (Jarrett)          | Jan 15   | Computer Forensic Overview                |                                           |
-| **2** (Chris)          | Jan 22   | Technical Foundations; Volume Analysis    |                                           |
+| **2** (Chris)          | Jan 22   | Technical Foundations; Volume Analysis      |                                           |
 | **3** (Chris)            | Jan 29   | Investigation Artifacts                   | **Homework 1 - Technical Foundations**    |
 | **4** (Jarrett)          | Feb 5    | File Systems I                            | **Moot Case Assigned**                    |
-| **5** (Jarrett)            | Feb 12   | Timeline Correlation                      | **Homework 2 - FAT/NTFS File Systems**    |
-| **6** (Chris)            | Feb 19   | Mobile Forensics & **Guest Speaker**      |   **Project Proposals**                   |
+| **5** (Jarrett)            | Feb 12   | Timeline Correlation                    | **Homework 2 - FAT/NTFS File Systems**    |
+| **6** (Chris)            | Feb 19   | Mobile Forensics                          |   **Project Proposals**                   |
 | **7** (Jarrett)          | Feb 26   | File Carving                              |                                           |
 | _SPRING BREAK_           | _Mar 5_  | _* No class_                              |                                           |
 | **8**                    | _Mar 12_ | _* Midterm Exam_                          |                                           |
 | **9** (Chris)            | Mar 19   | Memory Forensics                          |  **Moot Case**                            |
-| **10** (Jarrett)         | Mar 26   | File Systems II                           |  **Homework 3 - Memory Forensics**        |
+| **10** (Jarrett)         | Mar 26   | File Systems II & **Guest Speaker**       |  **Homework 3 - Memory Forensics**        |
 | **11** (Chris)           | Apr 2    | RAID Forensics                            |  **Homework 4 - BitLocker**               |
 | _CARNIVAL_               | Apr 9    | _* No class_                              |                                           |
 | **12** (Chris)           | Apr 16   | Incident Response & **Project Presentations** |  **Homework 5 - RAID Forensics** <br>**Project Presentations**<br> **ATTENDANCE REQUIRED**    |
